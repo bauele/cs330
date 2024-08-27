@@ -1,5 +1,15 @@
-# cs330
-Repository for my CS-330 class 
+# CS-330 Comp Graphic and Visualization 
+A custom-made, fully navigable 3D scene created with C++ and OpenGL.
+
+The WASD keys control movement on the X and Z axis.
+
+Q and E control movement on the Y axis.
+
+The mouse is used to change where the camera is pointing.
+
+O and P toggle orthographic and projection mode.
+
+<img  src="http://data.bauele.com/cs330-final-project.png" width="650" />
 
 ## How do I approach designing software?
 I approach designing software by reading the requirements, then formulating a plan on how to fulfill all of them.
